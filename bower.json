@@ -1,6 +1,6 @@
 {
   "name": "ovh-angular-doubleauth-backupcode",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Angular service for double authentication backup code",
   "license": "BSD-3-Clause",
   "authors": [
